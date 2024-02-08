@@ -1,6 +1,3 @@
-// comments
-
-
 //importing Scanner and Decimal Format
 import java.text.DecimalFormat; 
 import java.util.Scanner;
